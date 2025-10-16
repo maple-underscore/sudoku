@@ -1,0 +1,2 @@
+# sudoku
+algorithm solves sudoku
